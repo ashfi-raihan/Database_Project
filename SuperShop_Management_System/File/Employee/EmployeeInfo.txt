@@ -1,0 +1,3 @@
+ashfi;11;23;Male;manager;badda;1200
+Raihan;12;23;Male;manager;badda;1200
+Ishan;13;34;Male;Salesman;Mirpur;12000
