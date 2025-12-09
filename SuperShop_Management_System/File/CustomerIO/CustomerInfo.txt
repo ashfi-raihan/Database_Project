@@ -1,0 +1,4 @@
+
+Ashfi;21;20;MALE;098767655;aaa
+Jayed;22;87;MALE;9879676;BB
+aa;11;12;MALE;99;hhh
