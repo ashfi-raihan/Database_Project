@@ -1,0 +1,3 @@
+Badda;101;Uttar Badda;40
+Mirpur;102;Mirpur 2 ;50
+Gulshan;103;Gulshan 2;80
