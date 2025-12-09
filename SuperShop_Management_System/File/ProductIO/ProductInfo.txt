@@ -1,0 +1,6 @@
+Pringles;11;120.0;Food;abc;12-12-12;United States
+Hershey's;12;300.0;Food;bb;12-12-12;United States
+Mojo;13;30.0;Beverages;abc;12-12-12;Bangladesh
+Cushion;14;200.0;Furniture;abc;null;China
+Perfoum;15;500.0;Personal Care;abc;null;France
+aa;16;12.0;Food;;; 
